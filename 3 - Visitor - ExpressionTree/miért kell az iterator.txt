@@ -1,0 +1,5 @@
+// elkezdtem leimplementálni az iterátort, aztán rájöttem, hogy bonyolultabb így, hiszen így, hogy a Tree composite,
+   // így megkapja a visitor az egész fát és a végig tud iterálni rajta "kénye kedve szerint", így nem látom,
+   // hogy miért kéne visszaadni az irányítást a egy iterátornak.
+   // Ráadásul abban az esetben nem is tudná, hogy épp hol járunk a fában, parsolni kéne, hogy épp műveleten vagy számon állunk.
+   

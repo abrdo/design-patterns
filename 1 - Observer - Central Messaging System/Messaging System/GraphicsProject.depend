@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1593100223 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\1. félév (tavasz)\bevprog2\www graphicskit másolata\main.cpp
+	"graphics.hpp"
+	<iostream>
+
+1581495986 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\1. félév (tavasz)\bevprog2\www graphicskit másolata\include\graphics.hpp
+	<string>
+
+1599666536 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\main.cpp
+	"item.h"
+	"file.h"
+	"directory.h"
+	<iostream>
+	<vector>
+
+1581495986 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\include\graphics.hpp
+	<string>
+
+1599663891 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\composite.cpp
+	"composite.h"
+
+1599664183 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\composite.h
+	<string>
+
+1599662251 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\directory.cpp
+	"directory.h"
+
+1599695316 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\directory.h
+	"item.h"
+	"file.h"
+	<iostream>
+	<vector>
+
+1599662200 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\file.cpp
+	"file.h"
+
+1599695056 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\file.h
+	"item.h"
+	<iostream>
+	<string>
+
+1599695073 c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\item.h
+	<string>
+
+1599664387 source:c:\users\domonkos\documents\ppke itk tanulmányok\mérnökinfó msc\2. félév (õsz)\design patterns\gyakorlatok\gyak1\graphicskit project\item.cpp
+	"item.h"
+
+1600853045 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\main.cpp
+	"user.h"
+	"topic.h"
+	<string>
+	<iostream>
+	<vector>
+
+1600808747 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\observer.cpp
+	"observer.h"
+
+1600824564 c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\observer.h
+	<string>
+
+1600808688 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\subject.cpp
+	"subject.h"
+
+1600813749 c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\subject.h
+	"observer.h"
+	<vector>
+	<string>
+
+1600808747 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\topic.cpp
+	"topic.h"
+
+1600824564 c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\topic.h
+	"subject.h"
+	"string"
+
+1600808747 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\user.cpp
+	"user.h"
+
+1600823213 c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\user.h
+	"observer.h"
+	"topic.h"
+	<iostream>
+	<string>
+
+1600809114 source:c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\messagingsystem.cpp
+	"messagingsystem.h"
+
+1600824729 c:\users\domonkos\documents\ppke itk tanulmanyok\mernokinfo msc\2. felev (osz)\design patterns\homeworks\1 - central messaging system\messaging system\messagingsystem.h
+
+1601405707 source:c:\users\domonkos\documents\ppke_itk_tanulmanyok\mernokinfo_msc\2_felev_osz\design patterns\homeworks\1 - central messaging system\messaging system\main.cpp
+	"user.h"
+	"topic.h"
+	<string>
+	<iostream>
+	<vector>
+
+1600819613 c:\users\domonkos\documents\ppke_itk_tanulmanyok\mernokinfo_msc\2_felev_osz\design patterns\homeworks\1 - central messaging system\messaging system\user.h
+	"observer.h"
+	"topic.h"
+	<iostream>
+	<string>
+
+1600820964 c:\users\domonkos\documents\ppke_itk_tanulmanyok\mernokinfo_msc\2_felev_osz\design patterns\homeworks\1 - central messaging system\messaging system\observer.h
+	<string>
+
+1600820964 c:\users\domonkos\documents\ppke_itk_tanulmanyok\mernokinfo_msc\2_felev_osz\design patterns\homeworks\1 - central messaging system\messaging system\topic.h
+	"subject.h"
+	"string"
+
+1600810149 c:\users\domonkos\documents\ppke_itk_tanulmanyok\mernokinfo_msc\2_felev_osz\design patterns\homeworks\1 - central messaging system\messaging system\subject.h
+	"observer.h"
+	<vector>
+	<string>
+
